@@ -41,8 +41,6 @@ This portfolio contains a collection of my Java development projects, including 
 #### 2. Job Portal
 - **Description:** A platform for job seekers to find jobs and for employers to post job openings.
 - **Technologies Used:** Java, Spring Boot, Angular, MongoDB
-- **Image:**
-![Job Portal](https://via.placeholder.com/350x200?text=Java+Web+2)
 
 #### 3. Blog Platform
 - **Description:** A blogging platform where users can write, publish, and comment on blog posts.
